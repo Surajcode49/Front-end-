@@ -22,12 +22,12 @@ const Users = () => {
             {arr.map((i) => (
               <tr key={i}>
                 <td>#sdkfsdfdsf</td>
-                <td>Abhi</td>
+                <td>SURAJ</td>
                 <td>
                   <img src={me} alt="User" />
                 </td>
                 <td>Admin</td>
-                <td>{"24-23-2023"}</td>
+                <td>{"24-02-2024"}</td>
               </tr>
             ))}
           </tbody>

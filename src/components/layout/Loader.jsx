@@ -21,7 +21,7 @@ const Loader = () => {
       <IoFastFoodOutline />
 
       <div>
-        <motion.p {...options}>Loading...</motion.p>
+        <motion.p {...options}>⋘ 𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡...🤚⋙</motion.p>
       </div>
     </div>
   );
