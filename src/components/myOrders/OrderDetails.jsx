@@ -32,11 +32,11 @@ const OrderDetails = () => {
           </p>
           <p>
             <b>Placed At</b>
-            {"23-02-2002"}
+            {"DURGAPUR"}
           </p>
           <p>
             <b>Delivered At</b>
-            {"23-02-2003"}
+            {"DARJELLING"}
           </p>
         </div>
 
@@ -51,7 +51,7 @@ const OrderDetails = () => {
           </p>
           <p>
             <b>Paid At</b>
-            {"23-02-2003"}
+            {"Suraj@paytm.upi"}
           </p>
         </div>
 
@@ -76,19 +76,19 @@ const OrderDetails = () => {
           <div>
             <h4>Cheese Burger</h4>
             <div>
-              <span>{12}</span> x <span>{232}</span>
+              <span>{12}</span> * <span>{232}</span>
             </div>
           </div>
           <div>
             <h4>Veg Cheese Burger</h4>
             <div>
-              <span>{10}</span> x <span>{500}</span>
+              <span>{10}</span> * <span>{500}</span>
             </div>
           </div>
           <div>
             <h4>Burger Fries</h4>
             <div>
-              <span>{10}</span> x <span>{1800}</span>
+              <span>{10}</span> * <span>{1800}</span>
             </div>
           </div>
 
