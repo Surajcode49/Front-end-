@@ -25,11 +25,11 @@ const MyOrders = () => {
               <tr key={i}>
                 <td>#sdkfsdfdsf</td>
                 <td>Processing</td>
-                <td>23</td>
-                <td>₹{21312}</td>
+                <td>50</td>
+                <td>₹{2115452}</td>
                 <td>COD</td>
                 <td>
-                  <Link to={`/order/${"asdsds"}`}>
+                  <Link to={`/order/${"Details-page"}`}>
                     <AiOutlineEye />
                   </Link>
                 </td>

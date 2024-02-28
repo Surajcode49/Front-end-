@@ -24,7 +24,7 @@ const Profile = () => {
         </motion.h5>
         <motion.div {...options} transition={{ delay: 0.5 }}>
           <Link
-            to="/admin/dashboard"
+            to="/admin/Dashboard"
             style={{
               borderRadius: 0,
               backgroundColor: "rgb(40,40,40)",
