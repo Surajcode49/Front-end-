@@ -22,8 +22,7 @@ const Founder = () => {
         </h3>
 
         <p>
-          Hey, Everyone I am <span>SURAJ PRASAD</span>, the founder of MBA
-          Burger Wala.
+          Hey, Everyone I am <span>SURAJ PRASAD</span>, the founder of B.Tech Burger Wala.
           <br />
           Our aim is to provied the most tasty burger on planet.
         </p>
