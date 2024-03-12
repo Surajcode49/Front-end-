@@ -35,8 +35,8 @@ const About = () => {
             </div>
 
             <p>
-              I am SURAJ PRASAD, the founder of MBA Burger Wala. Affiliated to
-              Good Taste...
+              I am SURAJ PRASAD, the founder of B.Tech Burger Wala. Affiliated
+              to Good Taste...
             </p>
           </article>
         </div>
