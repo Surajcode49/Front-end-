@@ -13,7 +13,7 @@ const About = () => {
           <h4>B.TECH Burger Wala</h4>
           <p>
             We are B.TECH Burger Wala. The place for most tasty burgers on the
-            enitre earth.
+            enitre earth. Have a try 
           </p>
 
           <p>
